@@ -1,0 +1,1970 @@
+{
+  "generatedAt": "2026-09-09T10:48:11.607Z",
+  "bbox": [
+    19.231834,
+    50.049436,
+    19.555728,
+    50.210248
+  ],
+  "badgeBands": [
+    [
+      13,
+      13.6
+    ],
+    [
+      13.6,
+      14.4
+    ],
+    [
+      14.4,
+      15.5
+    ],
+    [
+      15.5,
+      16.8
+    ],
+    [
+      16.8,
+      22
+    ]
+  ],
+  "modes": [
+    {
+      "mode": "bus",
+      "label": "buses",
+      "color": "#0059a9"
+    }
+  ],
+  "lines": [
+    {
+      "line": "3",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 4,
+          "lengthKm": 2.44,
+          "stats": {
+            "observations": 43,
+            "matched": 43,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8814281563658876,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chrzanów Fablok",
+          "headsign": "Chrzanów Fablok",
+          "variants": 1,
+          "tripCount": 17,
+          "stops": 6,
+          "lengthKm": 3.93,
+          "stats": {
+            "observations": 160,
+            "matched": 160,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8117229558847152,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "8",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chełmek Chrobrego Szkoła",
+          "headsign": "Chełmek Chrobrego Szkoła",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 39,
+          "lengthKm": 29.5,
+          "stats": {
+            "observations": 735,
+            "matched": 735,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9889918036846179,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chełmek Młyny",
+          "headsign": "Chełmek Młyny",
+          "variants": 3,
+          "tripCount": 9,
+          "stops": 32,
+          "lengthKm": 24.68,
+          "stats": {
+            "observations": 492,
+            "matched": 492,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9994271651512063,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 5,
+          "tripCount": 7,
+          "stops": 34,
+          "lengthKm": 26.43,
+          "stats": {
+            "observations": 538,
+            "matched": 538,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0134142018220342,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Libiąż Dworzec Autobusowy",
+          "headsign": "Libiąż Dworzec Autobusowy",
+          "variants": 3,
+          "tripCount": 9,
+          "stops": 18,
+          "lengthKm": 15.03,
+          "stats": {
+            "observations": 256,
+            "matched": 256,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.034653095455273,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "9",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 13,
+          "tripCount": 11,
+          "stops": 28,
+          "lengthKm": 20.69,
+          "stats": {
+            "observations": 657,
+            "matched": 657,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4081218896197116,
+            "roundaboutSegs": 89,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chrzanów Trzebińska",
+          "headsign": "Chrzanów Trzebińska",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 25,
+          "lengthKm": 17.99,
+          "stats": {
+            "observations": 524,
+            "matched": 524,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4748226677041467,
+            "roundaboutSegs": 75,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Czyżówka Pętla",
+          "headsign": "Czyżówka Pętla",
+          "variants": 6,
+          "tripCount": 9,
+          "stops": 31,
+          "lengthKm": 24.24,
+          "stats": {
+            "observations": 791,
+            "matched": 791,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2950608923513751,
+            "roundaboutSegs": 82,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia Elektrownia Siersza",
+          "headsign": "Trzebinia Elektrownia Siersza",
+          "variants": 5,
+          "tripCount": 11,
+          "stops": 27,
+          "lengthKm": 21.67,
+          "stats": {
+            "observations": 663,
+            "matched": 663,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3510534974261474,
+            "roundaboutSegs": 82,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia Os.Energetyków",
+          "headsign": "Trzebinia Os.Energetyków",
+          "variants": 3,
+          "tripCount": 2,
+          "stops": 26,
+          "lengthKm": 19.06,
+          "stats": {
+            "observations": 526,
+            "matched": 526,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1482447631404242,
+            "roundaboutSegs": 58,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia PKP",
+          "headsign": "Trzebinia PKP",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 21,
+          "lengthKm": 12.21,
+          "stats": {
+            "observations": 384,
+            "matched": 384,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0882243878664395,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "10",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 11,
+          "tripCount": 10,
+          "stops": 23,
+          "lengthKm": 16.3,
+          "stats": {
+            "observations": 449,
+            "matched": 449,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0594924944581958,
+            "roundaboutSegs": 53,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Młoszowa Florkiewicza",
+          "headsign": "Młoszowa Florkiewicza",
+          "variants": 3,
+          "tripCount": 2,
+          "stops": 26,
+          "lengthKm": 18.93,
+          "stats": {
+            "observations": 589,
+            "matched": 589,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.962120530618178,
+            "roundaboutSegs": 81,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia KWK Siersza",
+          "headsign": "Trzebinia KWK Siersza",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 17,
+          "lengthKm": 10.93,
+          "stats": {
+            "observations": 321,
+            "matched": 321,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9972296993553318,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia Mały Rynek Kościuszki",
+          "headsign": "Trzebinia Mały Rynek Kościuszki",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 21,
+          "lengthKm": 14.97,
+          "stats": {
+            "observations": 473,
+            "matched": 473,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1130901990137623,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia PKP",
+          "headsign": "Trzebinia PKP",
+          "variants": 7,
+          "tripCount": 13,
+          "stops": 22,
+          "lengthKm": 15.96,
+          "stats": {
+            "observations": 502,
+            "matched": 502,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0827861560755332,
+            "roundaboutSegs": 41,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia Siersza Liceum",
+          "headsign": "Trzebinia Siersza Liceum",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 12,
+          "lengthKm": 8.46,
+          "stats": {
+            "observations": 281,
+            "matched": 281,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9961622187373317,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "15",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 5,
+          "tripCount": 2,
+          "stops": 27,
+          "lengthKm": 21.49,
+          "stats": {
+            "observations": 610,
+            "matched": 610,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.016217349805049,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Gromiec Granica",
+          "headsign": "Gromiec Granica",
+          "variants": 12,
+          "tripCount": 3,
+          "stops": 43,
+          "lengthKm": 37.08,
+          "stats": {
+            "observations": 991,
+            "matched": 991,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2611105817853483,
+            "roundaboutSegs": 182,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Libiąż Budzowy Sklep",
+          "headsign": "Libiąż Budzowy Sklep",
+          "variants": 5,
+          "tripCount": 6,
+          "stops": 32,
+          "lengthKm": 26.9,
+          "stats": {
+            "observations": 741,
+            "matched": 741,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2840297057732755,
+            "roundaboutSegs": 183,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Libiąż Dworzec Autobusowy",
+          "headsign": "Libiąż Dworzec Autobusowy",
+          "variants": 2,
+          "tripCount": 1,
+          "stops": 13,
+          "lengthKm": 8.66,
+          "stats": {
+            "observations": 277,
+            "matched": 277,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0411209134703812,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Libiąż Kopalnia Janina",
+          "headsign": "Libiąż Kopalnia Janina",
+          "variants": 4,
+          "tripCount": 3,
+          "stops": 34,
+          "lengthKm": 29.18,
+          "stats": {
+            "observations": 797,
+            "matched": 797,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3519683316580657,
+            "roundaboutSegs": 149,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Libiąż Oświęcimska Cmentarz",
+          "headsign": "Libiąż Oświęcimska Cmentarz",
+          "variants": 8,
+          "tripCount": 3,
+          "stops": 28,
+          "lengthKm": 24.46,
+          "stats": {
+            "observations": 684,
+            "matched": 684,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.31606971131777,
+            "roundaboutSegs": 160,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Młoszowa Florkiewicza",
+          "headsign": "Młoszowa Florkiewicza",
+          "variants": 8,
+          "tripCount": 9,
+          "stops": 35,
+          "lengthKm": 29.57,
+          "stats": {
+            "observations": 775,
+            "matched": 775,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0626640396074805,
+            "roundaboutSegs": 70,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Młoszowa Wzgórze II",
+          "headsign": "Młoszowa Wzgórze II",
+          "variants": 12,
+          "tripCount": 7,
+          "stops": 39,
+          "lengthKm": 33.17,
+          "stats": {
+            "observations": 979,
+            "matched": 979,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2091695536557103,
+            "roundaboutSegs": 94,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Psary Centrum",
+          "headsign": "Psary Centrum",
+          "variants": 5,
+          "tripCount": 3,
+          "stops": 43,
+          "lengthKm": 37.48,
+          "stats": {
+            "observations": 1049,
+            "matched": 1049,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2415660542510192,
+            "roundaboutSegs": 108,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia Zbyszek",
+          "headsign": "Trzebinia Zbyszek",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 21,
+          "lengthKm": 21.43,
+          "stats": {
+            "observations": 631,
+            "matched": 631,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4005346288815883,
+            "roundaboutSegs": 91,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "17a",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 3,
+          "tripCount": 6,
+          "stops": 19,
+          "lengthKm": 11.81,
+          "stats": {
+            "observations": 319,
+            "matched": 319,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.092506798206775,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Płaza Dolna I. (Pętla)",
+          "headsign": "Płaza Dolna I. (Pętla)",
+          "variants": 4,
+          "tripCount": 39,
+          "stops": 14,
+          "lengthKm": 9.7,
+          "stats": {
+            "observations": 254,
+            "matched": 254,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2267054203263452,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Wygiełzów",
+          "headsign": "Wygiełzów",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 17,
+          "lengthKm": 11.23,
+          "stats": {
+            "observations": 283,
+            "matched": 283,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3107042977547412,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "17b",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 3,
+          "tripCount": 10,
+          "stops": 23,
+          "lengthKm": 14.96,
+          "stats": {
+            "observations": 375,
+            "matched": 375,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0126307056717019,
+            "roundaboutSegs": 53,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "25",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chełmek Młyny",
+          "headsign": "Chełmek Młyny",
+          "variants": 3,
+          "tripCount": 4,
+          "stops": 30,
+          "lengthKm": 21.78,
+          "stats": {
+            "observations": 622,
+            "matched": 622,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9186496920072281,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 5,
+          "tripCount": 2,
+          "stops": 35,
+          "lengthKm": 25.87,
+          "stats": {
+            "observations": 646,
+            "matched": 646,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.994397136605013,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chrzanów Oczyszczalnia",
+          "headsign": "Chrzanów Oczyszczalnia",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 11,
+          "lengthKm": 6.48,
+          "stats": {
+            "observations": 227,
+            "matched": 227,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8214637278760136,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Libiąż Kosówki Paprocia II",
+          "headsign": "Libiąż Kosówki Paprocia II",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 23,
+          "lengthKm": 16.29,
+          "stats": {
+            "observations": 429,
+            "matched": 429,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9101962061714436,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "29",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Balin",
+          "headsign": "Balin",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 21,
+          "lengthKm": 14.76,
+          "stats": {
+            "observations": 472,
+            "matched": 472,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0540846621198345,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 4,
+          "tripCount": 16,
+          "stops": 21,
+          "lengthKm": 14.76,
+          "stats": {
+            "observations": 472,
+            "matched": 472,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0540846621198345,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Okradziejówka Pętla",
+          "headsign": "Okradziejówka Pętla",
+          "variants": 3,
+          "tripCount": 30,
+          "stops": 16,
+          "lengthKm": 11.38,
+          "stats": {
+            "observations": 401,
+            "matched": 401,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0692440663548317,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "30",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 2,
+          "tripCount": 45,
+          "stops": 6,
+          "lengthKm": 2.96,
+          "stats": {
+            "observations": 110,
+            "matched": 110,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8029622582666947,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chrzanów Fablok",
+          "headsign": "Chrzanów Fablok",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 3,
+          "lengthKm": 1.77,
+          "stats": {
+            "observations": 52,
+            "matched": 52,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.665920635994401,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chrzanów Os.Młodości Witosa",
+          "headsign": "Chrzanów Os.Młodości Witosa",
+          "variants": 4,
+          "tripCount": 13,
+          "stops": 14,
+          "lengthKm": 8.18,
+          "stats": {
+            "observations": 301,
+            "matched": 301,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8807328832505102,
+            "roundaboutSegs": 47,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "31",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 4,
+          "tripCount": 12,
+          "stops": 14,
+          "lengthKm": 8.79,
+          "stats": {
+            "observations": 368,
+            "matched": 368,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0914506138536553,
+            "roundaboutSegs": 53,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chrzanów Szpital",
+          "headsign": "Chrzanów Szpital",
+          "variants": 2,
+          "tripCount": 5,
+          "stops": 13,
+          "lengthKm": 7.12,
+          "stats": {
+            "observations": 308,
+            "matched": 308,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0586877793362266,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "31B",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Szpital",
+          "headsign": "Chrzanów Szpital",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 6,
+          "lengthKm": 5.66,
+          "stats": {
+            "observations": 244,
+            "matched": 244,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0219436044372427,
+            "roundaboutSegs": 80,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "32a",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 2,
+          "tripCount": 68,
+          "stops": 19,
+          "lengthKm": 11.67,
+          "stats": {
+            "observations": 405,
+            "matched": 405,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2492517319960519,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Płaza Dolna I. (Pętla)",
+          "headsign": "Płaza Dolna I. (Pętla)",
+          "variants": 1,
+          "tripCount": 54,
+          "stops": 23,
+          "lengthKm": 14.12,
+          "stats": {
+            "observations": 525,
+            "matched": 525,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0525068306208507,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Wygiełzów",
+          "headsign": "Wygiełzów",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 23,
+          "lengthKm": 14.79,
+          "stats": {
+            "observations": 529,
+            "matched": 529,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0586077064524249,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "32b",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 2,
+          "tripCount": 13,
+          "stops": 31,
+          "lengthKm": 19.45,
+          "stats": {
+            "observations": 589,
+            "matched": 589,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9390518091559067,
+            "roundaboutSegs": 66,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "33",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 12,
+          "lengthKm": 7.54,
+          "stats": {
+            "observations": 244,
+            "matched": 244,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9528534266365145,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "35",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 8,
+          "lengthKm": 3.6,
+          "stats": {
+            "observations": 98,
+            "matched": 98,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9362563174306262,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chrzanów Stella Pętla",
+          "headsign": "Chrzanów Stella Pętla",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 8,
+          "lengthKm": 3.68,
+          "stats": {
+            "observations": 100,
+            "matched": 100,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.982533278221403,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "38",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Dworzec Autobusowy",
+          "headsign": "Chrzanów Dworzec Autobusowy",
+          "variants": 6,
+          "tripCount": 6,
+          "stops": 22,
+          "lengthKm": 19.51,
+          "stats": {
+            "observations": 437,
+            "matched": 437,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0405913760177383,
+            "roundaboutSegs": 74,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Libiąż Dworzec Autobusowy",
+          "headsign": "Libiąż Dworzec Autobusowy",
+          "variants": 6,
+          "tripCount": 6,
+          "stops": 21,
+          "lengthKm": 18.74,
+          "stats": {
+            "observations": 493,
+            "matched": 493,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9689942319952083,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "41",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Chrzanów Trzebińska",
+          "headsign": "Chrzanów Trzebińska",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 16.31,
+          "stats": {
+            "observations": 364,
+            "matched": 364,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1066613539187105,
+            "roundaboutSegs": 111,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Myślachowice Centrum",
+          "headsign": "Myślachowice Centrum",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 4,
+          "lengthKm": 4.3,
+          "stats": {
+            "observations": 151,
+            "matched": 151,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9720424844946488,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Psary Centrum",
+          "headsign": "Psary Centrum",
+          "variants": 11,
+          "tripCount": 2,
+          "stops": 35,
+          "lengthKm": 35.91,
+          "stats": {
+            "observations": 878,
+            "matched": 878,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3286296742780506,
+            "roundaboutSegs": 172,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Psary Ostra Góra",
+          "headsign": "Psary Ostra Góra",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 27,
+          "lengthKm": 27.02,
+          "stats": {
+            "observations": 709,
+            "matched": 709,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2647449168638818,
+            "roundaboutSegs": 118,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Płoki Centrum",
+          "headsign": "Płoki Centrum",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 6,
+          "lengthKm": 6.75,
+          "stats": {
+            "observations": 213,
+            "matched": 213,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8862925894711946,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia Mały Rynek",
+          "headsign": "Trzebinia Mały Rynek",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 11,
+          "lengthKm": 8.36,
+          "stats": {
+            "observations": 179,
+            "matched": 179,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3391305962337274,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia PKP",
+          "headsign": "Trzebinia PKP",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 14,
+          "lengthKm": 10.77,
+          "stats": {
+            "observations": 265,
+            "matched": 265,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.143571757265411,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia Zbyszek",
+          "headsign": "Trzebinia Zbyszek",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 5,
+          "lengthKm": 4.66,
+          "stats": {
+            "observations": 133,
+            "matched": 133,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.059126382698765,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "42",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Bolęcin Stawki",
+          "headsign": "Bolęcin Stawki",
+          "variants": 7,
+          "tripCount": 16,
+          "stops": 23,
+          "lengthKm": 19.38,
+          "stats": {
+            "observations": 544,
+            "matched": 544,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.087146142960505,
+            "roundaboutSegs": 48,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Czyżówka Pętla",
+          "headsign": "Czyżówka Pętla",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 25,
+          "lengthKm": 24.28,
+          "stats": {
+            "observations": 790,
+            "matched": 790,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1347082614748603,
+            "roundaboutSegs": 63,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Płaza Cmentarz",
+          "headsign": "Płaza Cmentarz",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 27,
+          "lengthKm": 23.43,
+          "stats": {
+            "observations": 703,
+            "matched": 703,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0641757291656417,
+            "roundaboutSegs": 48,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Płaza Dolna I. (Pętla)",
+          "headsign": "Płaza Dolna I. (Pętla)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 31,
+          "lengthKm": 26.08,
+          "stats": {
+            "observations": 802,
+            "matched": 802,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1393576904447733,
+            "roundaboutSegs": 48,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Płoki Centrum",
+          "headsign": "Płoki Centrum",
+          "variants": 7,
+          "tripCount": 6,
+          "stops": 28,
+          "lengthKm": 25.26,
+          "stats": {
+            "observations": 841,
+            "matched": 841,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.159629509649675,
+            "roundaboutSegs": 63,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia Mały Rynek",
+          "headsign": "Trzebinia Mały Rynek",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 15,
+          "lengthKm": 13.49,
+          "stats": {
+            "observations": 359,
+            "matched": 359,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1068290854947487,
+            "roundaboutSegs": 47,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Libiąż Kopalnia Janina",
+          "headsign": "Libiąż Kopalnia Janina",
+          "variants": 7,
+          "tripCount": 19,
+          "stops": 29,
+          "lengthKm": 19.99,
+          "stats": {
+            "observations": 560,
+            "matched": 560,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9435405916696952,
+            "roundaboutSegs": 46,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "B",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Libiąż Kopalnia Janina",
+          "headsign": "Libiąż Kopalnia Janina",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 49,
+          "lengthKm": 35.41,
+          "stats": {
+            "observations": 1055,
+            "matched": 1055,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1441412317645294,
+            "roundaboutSegs": 88,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Libiąż PKP",
+          "headsign": "Libiąż PKP",
+          "variants": 4,
+          "tripCount": 6,
+          "stops": 21,
+          "lengthKm": 16.23,
+          "stats": {
+            "observations": 465,
+            "matched": 465,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2708859321521078,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Mętków Mały",
+          "headsign": "Mętków Mały",
+          "variants": 4,
+          "tripCount": 6,
+          "stops": 21,
+          "lengthKm": 16.49,
+          "stats": {
+            "observations": 485,
+            "matched": 485,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3827668518703866,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Żarki Bębenki",
+          "headsign": "Żarki Bębenki",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 19,
+          "lengthKm": 14.38,
+          "stats": {
+            "observations": 442,
+            "matched": 442,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4267580028769808,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "La",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Trzebinia PKP",
+          "headsign": "Trzebinia PKP",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 44,
+          "lengthKm": 32.83,
+          "stats": {
+            "observations": 970,
+            "matched": 970,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1025066855708414,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "Lb",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Lgota",
+          "headsign": "Lgota",
+          "variants": 2,
+          "tripCount": 1,
+          "stops": 8,
+          "lengthKm": 11.54,
+          "stats": {
+            "observations": 309,
+            "matched": 309,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1373824265991874,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia PKP",
+          "headsign": "Trzebinia PKP",
+          "variants": 3,
+          "tripCount": 1,
+          "stops": 8,
+          "lengthKm": 5.82,
+          "stats": {
+            "observations": 199,
+            "matched": 199,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0624203811193005,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "Lc",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Płoki Centrum",
+          "headsign": "Płoki Centrum",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 8,
+          "lengthKm": 7.88,
+          "stats": {
+            "observations": 267,
+            "matched": 267,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0291039548359806,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trzebinia PKP",
+          "headsign": "Trzebinia PKP",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 9,
+          "lengthKm": 7.75,
+          "stats": {
+            "observations": 245,
+            "matched": 245,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.042213048512852,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "P",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Bolęcin Szkoła",
+          "headsign": "Bolęcin Szkoła",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 13,
+          "lengthKm": 8.18,
+          "stats": {
+            "observations": 194,
+            "matched": 194,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.168447930180913,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chrzanów Trzebińska",
+          "headsign": "Chrzanów Trzebińska",
+          "variants": 7,
+          "tripCount": 7,
+          "stops": 17,
+          "lengthKm": 11.36,
+          "stats": {
+            "observations": 353,
+            "matched": 353,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2173596838098766,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Płaza Górna Kościół",
+          "headsign": "Płaza Górna Kościół",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 15,
+          "lengthKm": 10.22,
+          "stats": {
+            "observations": 296,
+            "matched": 296,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1796971262479012,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "line": "N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Trzebinia Piłsudskiego Kościół",
+          "headsign": "Trzebinia Piłsudskiego Kościół",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 40,
+          "lengthKm": 33.84,
+          "stats": {
+            "observations": 1076,
+            "matched": 1076,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1440436843659394,
+            "roundaboutSegs": 55,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    }
+  ]
+}
